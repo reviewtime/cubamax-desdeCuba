@@ -164,7 +164,7 @@ main {
     font-size: clamp(2.4rem, 3.3vw, 3.2rem);
     margin-bottom: 1rem;
     color: var(--secondary);
-    margin-right: 20px;
+    font-size: 1.8rem;
 }
 
 .hero p {
