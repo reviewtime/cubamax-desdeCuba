@@ -672,3 +672,9 @@ footer {
     margin: 0;
 }
 
+.media{display:flex;gap:24px;align-items:flex-start;margin:24px 0}
+.media__video{flex:1 1 60%;min-width:280px}
+.media__content{flex:1 1 40%;min-width:150px}
+.media video, .media iframe{width:70%;height:auto;border-radius:12px;display:block}
+.btn{display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #ddd;text-decoration:none}
+@media (max-width:900px){.media{flex-direction:column}}
