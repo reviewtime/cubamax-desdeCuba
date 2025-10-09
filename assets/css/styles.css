@@ -678,3 +678,5 @@ footer {
 .media video, .media iframe{width:70%;height:auto;border-radius:12px;display:block}
 .btn{display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #ddd;text-decoration:none}
 @media (max-width:900px){.media{flex-direction:column}}
+
+.whatsapp-link{margin-top: 1rem;}
